@@ -5,3 +5,10 @@ p {
 body {
   background-color: #f8e8a6;
 }
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
