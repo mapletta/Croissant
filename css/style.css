@@ -12,6 +12,15 @@ body {
   display: block;
   margin: 30px auto;
 }
-div {
+footer {
   text-align: center;
+}
+.link-mail {
+  margin: 0 10px;
+}
+a:active {
+  color: blue;
+}
+a:visited {
+  color: green;
 }
