@@ -12,3 +12,7 @@ body {
   display: block;
   margin: 30px auto;
 }
+
+a {
+  text-align: center;
+}
